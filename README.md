@@ -7,7 +7,7 @@ Here is the **features section written like an essay**:
 
 ---
 
-## **📌 Project Features (Essay Style)**
+##  Project Features 
 
 The Personal Finance Tracker includes several useful features that help users manage their daily financial activities with ease. One of the key features of this project is the ability to add new transactions. Users can enter the date, a short description, and the amount for each transaction, allowing them to record both income and expenses in a clear and organized manner. Each transaction is stored in a text file, ensuring that the data remains saved even after the program is closed.
 
