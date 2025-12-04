@@ -1,13 +1,13 @@
-📌 Project Title
+ Project Title
 Personal Finance Tracker in C
-📌 Project Description
+ Project Description
 
 A simple and efficient console-based application written in C that helps users manage daily financial transactions. It allows users to record income/expenses, view transaction history, and calculate the current balance using a file-based storage system.
-Here is the **features section written like an essay**:
+:
 
 ---
 
-##  Project Features 
+  Project Features 
 
 The Personal Finance Tracker includes several useful features that help users manage their daily financial activities with ease. One of the key features of this project is the ability to add new transactions. Users can enter the date, a short description, and the amount for each transaction, allowing them to record both income and expenses in a clear and organized manner. Each transaction is stored in a text file, ensuring that the data remains saved even after the program is closed.
 
